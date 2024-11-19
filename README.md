@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on RAG system application 
 - 📫 How to reach me : yogeshnakrani9@gmail.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: "I’m on a quest to find the perfect balance between data science and fantasy novels."
 
 <!---
 YogeshTheBrown/YogeshTheBrown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
